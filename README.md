@@ -8,7 +8,7 @@
  __🎨 Entusiasta del arte y diseño digital 🎶<br>__
  __💤 "Las mejores ideas vienen en los sueños 💡__
 
-# 💻 Tecnologías:
+# 🔧 Tecnologías:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -25,9 +25,9 @@
 
 
 # 📊 GitHub Stats:
-<img src= "https://github-readme-stats.vercel.app/api?username=Hiromy24&theme=rose&hide_border=false&include_all_commits=false&count_private=false" style="width: 80%;"></img>
+<img src= "https://github-readme-stats.vercel.app/api?username=Hiromy24&theme=rose&hide_border=false&include_all_commits=false&count_private=false" style="width: 70%;"></img>
 ---
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Hiromy24&theme=rose&hide_border=false" style="width: 80%;"></img>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Hiromy24&theme=rose&hide_border=false" style="width: 70%;"></img>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hiromy24&theme=rose&no-frame=false&no-bg=false&margin-w=2)
