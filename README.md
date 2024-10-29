@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henry-illescas)
 
 ---
- __🕹️ Amante de los videojuegos <br>__
  __💻 Desarrollador Full Stack en busca de expandir sus horizontes<br>__
+ __🕹️ Amante de los videojuegos <br>__
  __🎨 Entusiasta del arte y diseño digital 🎶<br>__
  __💤 "Las mejores ideas vienen en los sueños 💡__
 
