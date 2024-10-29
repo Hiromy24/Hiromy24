@@ -3,10 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henry-illescas)
 
 ---
-💻 Desarrollador Full Stack en busca de expandir sus horizontes<br>
-🕹️ Amante de los videojuegos <br>
-🎨 Entusiasta del arte y diseño digital 🎶<br>
-💤 "Las mejores ideas vienen en los sueños 💡
+ __🕹️ Amante de los videojuegos <br>__
+ __💻 Desarrollador Full Stack en busca de expandir sus horizontes<br>__
+ __🎨 Entusiasta del arte y diseño digital 🎶<br>__
+ __💤 "Las mejores ideas vienen en los sueños 💡__
 
 # 💻 Tecnologías:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
