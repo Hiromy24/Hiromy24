@@ -1,11 +1,4 @@
-<style>
-    .center{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 80%;
-    }
-</style>
+
 [![](https://visitcount.itsvg.in/api?id=Hiromy24&icon=3&color=3)](https://visitcount.itsvg.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henry-illescas)
 
@@ -32,9 +25,9 @@
 
 
 # 📊 GitHub Stats:
-<img src= "https://github-readme-stats.vercel.app/api?username=Hiromy24&theme=rose&hide_border=false&include_all_commits=false&count_private=false" class= "center"></img>
+<img src= "https://github-readme-stats.vercel.app/api?username=Hiromy24&theme=rose&hide_border=false&include_all_commits=false&count_private=false" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"></img>
 ---
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Hiromy24&theme=rose&hide_border=false" class= "center"></img>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Hiromy24&theme=rose&hide_border=false" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"></img>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hiromy24&theme=rose&no-frame=false&no-bg=false&margin-w=2)
