@@ -1,4 +1,4 @@
-<img src= "src/Banner.gif" style= "width: 100%"></img> <br>
+<img src= "src/Banner.gif" style= "width: 90%"></img> <br>
 [![](https://visitcount.itsvg.in/api?id=Hiromy24&icon=3&color=3)](https://visitcount.itsvg.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henry-illescas)
 
