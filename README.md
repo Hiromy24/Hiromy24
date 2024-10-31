@@ -6,7 +6,7 @@
  __💻 Desarrollador Full Stack en busca de expandir sus horizontes<br>__
  __🕹️ Amante de los videojuegos <br>__
  __🎨 Entusiasta del arte y diseño digital 🎶<br>__
- __💤 "Las mejores ideas vienen en los sueños 💡__
+ __💤 "Las mejores ideas vienen en los sueños" 💡__
 
 # 🔧 Tecnologías:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
