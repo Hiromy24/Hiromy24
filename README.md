@@ -25,9 +25,11 @@
 
 
 # 📊 GitHub Stats:
-<img src= "https://github-readme-stats.vercel.app/api?username=Hiromy24&theme=rose&hide_border=false&include_all_commits=false&count_private=false" style="width: 70%;"></img>
+<img src= "https://github-readme-stats.vercel.app/api?username=Hiromy24&theme=gotham&show_icons=true&hide_border=true&count_private=true" style="width: 70%;"></img>
 ---
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Hiromy24&theme=rose&hide_border=false" style="width: 70%;"></img>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Hiromy24&theme=gotham&hide_border=true" style="width: 70%;"></img>
+---
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hiromy24&theme=gotham&show_icons=true&hide_border=true&layout=compact" style="width: 70%;"></img>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hiromy24&theme=rose&no-frame=false&no-bg=false&margin-w=2)
