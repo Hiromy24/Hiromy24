@@ -32,6 +32,6 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hiromy24&theme=gotham&show_icons=true&hide_border=true&layout=compact" style="width: 70%;"></img>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hiromy24&theme=rose&no-frame=false&no-bg=false&margin-w=2)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hiromy24&theme=onedark)]
 
 ---
